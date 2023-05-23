@@ -4,7 +4,7 @@ import lib.biblioteca_animale
 
 app = Flask(__name__)
 
-print('442D_flori')
+print('442D_animale')
 
 @app.route("/" , methods=['GET'])
 def index():
