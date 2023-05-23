@@ -29,8 +29,8 @@ pipeline {
                     pylint --exit-zero lib/*.py;
                     echo '\n\nVerificare tests/*.py cu pylint';
                     pylint --exit-zero tests/*.py;
-                    echo '\n\nVerificare sysinfo.py cu pylint';
-                    pylint --exit-zero 442D_flori.py;
+                    echo '\n\nVerificare 442D_animale.py cu pylint';
+                    pylint --exit-zero 442D_animale.py;
                 '''
             }
         }
