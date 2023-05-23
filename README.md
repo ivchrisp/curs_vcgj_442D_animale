@@ -7,3 +7,6 @@ Poze pentru a demonstra functionarea proiectului :
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132371318/a810f4d6-0ecf-46e0-a116-d5493ef61b75)
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132371318/7045c98a-dace-4084-afc9-a9f52c257fb8)
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132371318/851663c7-5081-4033-94de-8c9d398d567a)
+![Jenlins](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132371318/9ff1f4ee-5fcc-4b23-8e81-16eba5aea680)
+![Jenkins Build](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132371318/28c3896a-9f0e-4043-8d9e-5ff952cf6e94)
+![Blue Ocean](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132371318/b00ef5c3-0717-4061-a343-2dd259956740)
