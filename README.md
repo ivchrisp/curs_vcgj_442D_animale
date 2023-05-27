@@ -9,3 +9,6 @@ In git/curs_vcgj_442D_animale/app avem fisierul 442D_animale.py in care trebuie 
 In git/curs_vcgj_442D_animale/app/lib am madaugat in fisierul biblioteca_animale.py proprietatile iepurelui si anume culoare, hrana si invelisul corpului:
 
 ![p4](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/4d83f2ad-801e-4266-91b1-2b1c187fd6bc)
+
+Pentru partea de Jenkins am creat fisierele Jenkinsfile activeaza_venv si activeaza_venv_jenkins si am atasat codurile
+![p5](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/b639eaf1-75c3-48fc-925e-f75565afc9fd)
