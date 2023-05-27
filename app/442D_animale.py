@@ -46,3 +46,4 @@ def ia_culoare_iepure():
     ret += lib.biblioteca_animale.invelis_iepure()
     
     return ret
+
