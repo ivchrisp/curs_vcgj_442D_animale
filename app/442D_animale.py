@@ -10,7 +10,7 @@ def index():
     return ret
 
 @app route("/pisica", methods = ['GET'])
-def get_iepure():
+def get_pisica():
     ret = "<h1>Pisica<h1>"
     ret += "Culoare: "
     ret += lib.biblioteca_animale.culoare_pisica()
