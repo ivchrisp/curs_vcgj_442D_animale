@@ -46,3 +46,5 @@ def ia_culoare_pisica():
     ret += lib.biblioteca_animale.invelis_pisica()
 
     return ret
+    
+app.run(host = "127.0.0.1", port = 5001)
