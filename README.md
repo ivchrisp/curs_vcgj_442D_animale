@@ -1,5 +1,5 @@
 # curs_vcgj_442D_animale
-Am creat in Home un director git pentru clonarea repository-ului main/curs_vcgj_444D_flori:
+Am creat in Home un director git pentru clonarea repository-ului main/curs_vcgj_442D_animale:
 ![p1](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/c74a5ba7-3cf6-450d-8c78-55f7eff57f46)
 ![p2](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/fb1d076a-43c7-493d-88d7-4946f6106d61)
 In git/curs_vcgj_442D_animale/app avem fisierul 442D_animale.py in care trebuie adaugat animalul ales, in cazul meu am ales iepure
