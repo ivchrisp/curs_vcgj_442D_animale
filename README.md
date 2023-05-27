@@ -8,3 +8,6 @@ In git/curs_vcgj_442D_animale/app avem fisierul 442D_animale.py in care trebuie 
 
 In git/curs_vcgj_442D_animale/app/lib am madaugat in fisierul biblioteca_animale.py proprietatile pisicii si anume culoare, hrana, invelisul corpului:
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277716/05f1c4d0-cfa3-4fce-a466-06e911367d29)
+
+Pentru partea de Jenkins am creat fisierele Jenkinsfile activeaza_venv si activeaza_venv_jenkins si am atasat codurile.
+![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277716/f5c549d0-f6e3-42f5-b17c-2023a7945eea)
