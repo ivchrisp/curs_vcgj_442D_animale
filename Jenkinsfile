@@ -31,8 +31,8 @@ pipeline {
                     echo '\n\nVerificare tests/*.py cu pylint';
                     pylint --exit-zero tests/*.py;
 
-                    echo '\n\nVerificare sysinfo.py cu pylint';
-                    pylint --exit-zero sysinfo.py;
+                    echo '\n\nVerificare 442D_animale.py cu pylint';
+                    pylint --exit-zero 442D_animale.py;
                 '''
             }
         }
@@ -44,7 +44,7 @@ pipeline {
                 sh '''
                     cd app;
                     . ./activeaza_venv;
-                    pytest;
+                    python3 -m pytest -v;
                 '''
             }
         }
