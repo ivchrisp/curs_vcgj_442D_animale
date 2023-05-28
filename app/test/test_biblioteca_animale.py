@@ -9,7 +9,7 @@ def test_culoare_koala():
 
 def test_hrana_koala():
     inf = b_animale.hrana_koala()
-    if inf == 'ierbibor':
+    if inf == 'ierbivor':
         assert True
     else:
         assert False
