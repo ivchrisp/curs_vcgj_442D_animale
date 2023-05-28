@@ -11,8 +11,11 @@ In git/curs_vcgj_442D_animale/app/lib am madaugat in fisierul biblioteca_animale
 
 ![p4](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/4d83f2ad-801e-4266-91b1-2b1c187fd6bc)
 
-Pentru partea de Jenkins am creat fisierele Jenkinsfile activeaza_venv si activeaza_venv_jenkins si am atasat codurile
+Pentru partea de Jenkins am creat fisierele Jenkinsfile activeaza_venv si activeaza_venv_jenkins si am atasat codurile. Pe Jenkins, configuram Jenkins-ul astfel incat sa folosim un plugin (Blue Ocean) care ne creaza o interfata unde vedem o diagrama cu toate stage-urile aplicatiei de test si astfel vedem eventuale erori – Jenkins-ul ne va spune unde si ce anume a picat si mesajele noastre din fisierul Jenkinsfile(daca exista).
 ![p5](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/b639eaf1-75c3-48fc-925e-f75565afc9fd)
+![p11](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/74752f61-97fc-49ec-bcf8-c2fa88fc067f)
+![p12](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/a2212586-18d0-4dc2-9c1e-ab3c4f2ace06)
+
 
 Pentru a adauga fisiere modificate/noi pe GitHub am folosit comenzile git add, git commit, git push
 ![p6](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/435aea4f-4815-4346-b8ba-7da837369282)
