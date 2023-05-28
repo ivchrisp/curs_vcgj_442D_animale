@@ -1,50 +1,22 @@
-import lib.biblioteca_animale as banimale
+import lib.biblioteca_animale as b_animale
 
-def test_culoare_caine():
-    cul = banimale.culoare_caine()
-    if cul == "maro" : 
+def test_culoare_ornitorinc():
+    cul = b_animale.culoare_ornitorinc()
+    if cul == 'cafeniu':
         assert True
-    else: 
-        assert False
-        
-
-def test_hrana_caine():
-    cul = banimale.hrana_caine()
-    if cul == "carnivor" :
-        assert True
-    else: 
+    else:
         assert False
 
-def test_invelis_caine():
-    cul = banimale.invelis_caine()
-    if cul == "blana" :
+def test_hrana_ornitorinc():
+    inf = b_animale.hrana_ornitorinc()
+    if inf == 'carnivor':
         assert True
-    else: 
-        assert False
-        
-        
-        
-        
-        
-
-def test_culoare_pantera():
-    cul = banimale.culoare_pantera()
-    if cul == "negru" : 
-        assert True
-    else: 
-        assert False
-        
-
-def test_hrana_pantera():
-    cul = banimale.hrana_pantera()
-    if cul == "carnivor" :
-        assert True
-    else: 
+    else:
         assert False
 
-def test_invelis_pantera():
-    cul = banimale.invelis_pantera()
-    if cul == "blana" :
+def test_invelisul_corpului_ornitorinc():
+    inf = b_animale.invelisul_corpului_ornitorinc()
+    if inf == 'blana':
         assert True
-    else: 
+    else:
         assert False
