@@ -1,3 +1,15 @@
+from flask import Flask
+import lib.biblioteca_animale
+app=Flask(__name__)
+print('442D_animale')
+
+
+'''
+ ------------------------------------
+    Stiuca-Mihaescu Mihnea 442D - hamster
+ ------------------------------------
+'''
+
 @app.route("/hamster", methods=['GET'])  # Defines a route for GET requests to "/hamster"
 def obtine_hamster():  # Defines a function that will be called when the route is accessed
     ret = "<h1>hamster:</h1>"
@@ -34,3 +46,5 @@ def obtine_invelisul_corpului_hamster():
     ret = ""
     ret += lib.biblioteca_animale.invelisul_corpului_hamster()
     return ret
+
+app.run(host = "127.0.0.1", port = 5002)
