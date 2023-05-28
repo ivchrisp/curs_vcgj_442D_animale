@@ -14,11 +14,6 @@ pipeline {
                     '''
             }
         }
-        
-        /*stage('Testare') {
-            problema rulare in paralel, al doilea stage nu mai poate porni venv-ul
-            parallel {
-         */
         stage('pylint - calitate cod') {
             agent any
             steps {
