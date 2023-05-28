@@ -1,6 +1,6 @@
 #!/bin/bash
 #LINUX
-export FLASK_APP=443D_fructe
+export FLASK_APP=442D_animale
 
 #WINDOWS
 #set FLASK_APP=sysinfo
