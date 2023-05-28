@@ -12,3 +12,6 @@ In git/curs_vcgj_442D_animale/app/lib am madaugat in fisierul biblioteca_animale
 
 Pentru partea de Jenkins am creat fisierele Jenkinsfile activeaza_venv si activeaza_venv_jenkins si am atasat codurile
 ![p5](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/b639eaf1-75c3-48fc-925e-f75565afc9fd)
+
+Pentru a adauga fisiere modificate/noi pe GitHub am folosit comenzile git add, git commit, git push
+![p6](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277705/435aea4f-4815-4346-b8ba-7da837369282)
