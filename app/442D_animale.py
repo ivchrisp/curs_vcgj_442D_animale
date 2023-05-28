@@ -37,3 +37,5 @@ def obtine_invelisul_corpului_lenes():
     ret = ""
     ret += lib.biblioteca_animale.invelisul_corpului_lenes()
     return ret
+
+app.run(host="127.0.0.1", port=5002)
