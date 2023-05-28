@@ -1,7 +1,7 @@
 import lib.biblioteca_animale as b_animal
 
 def test_culoare_lenes():
-    col = b_animal.culoare_ananas()
+    col = b_animal.culoare_lenes()
     if col == 'maro':
         assert True
     else:
