@@ -1,4 +1,3 @@
-
 # venv-ul se gaseste in directorul parinte: .venv
 # source ../.venv/bin/activate
 . ../.venv/bin/activate
