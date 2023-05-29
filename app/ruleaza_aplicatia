@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#LINUX
+
+export FLASK_APP=442D_animale
+
+#WINDOWS
+
+#set FLASK_APP=442D_animale
+
+
+
+flask run -p 5011 --reload
+
+
