@@ -83,10 +83,12 @@ Teste
 Docker:
 
 Am creat fisierele necesare
+
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132934305/d006b5b7-7eb2-473a-8de4-d17d293c19ab)
 
  
 Imi da eroare:
+
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/132934305/56be82e4-5fa0-4ac9-9bf6-1adec5968df7)
 
  
