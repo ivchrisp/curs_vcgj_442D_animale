@@ -2,7 +2,7 @@
 
 ------------------------------------ 
 
-NUMELE TAU si GRUPA - oaie 
+Irimia Paul-Andrei - oaie 
 
 ------------------------------------ 
 
