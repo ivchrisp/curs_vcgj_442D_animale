@@ -1,6 +1,6 @@
-rom flask import Flask
+from flask import Flask
 import lib.biblioteca_animale
-app=Flask(name)
+app=Flask(__name__)
 print('442D_animale')
 
 @app.route("/puma", methods=['GET'])
