@@ -4,7 +4,7 @@
 
 ![2](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/97604083/98bbe98e-3e96-4fde-a667-28d1dc4413fb)
 
-![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/97604083/885c0436-77e9-4228-ae3b-c3753d90e545)
+
 
 # 6. Test Manual Aplicatie WEB    
 
