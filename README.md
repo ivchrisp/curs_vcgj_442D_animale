@@ -23,3 +23,7 @@ Test biblioteca:
 Jenkins:
 
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/133902149/77b7eebf-285a-422e-9cf4-024d7315591a)
+
+Cod Jenkins:
+
+![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/133902149/210dc438-b24c-4f90-8e50-ebe342586dc2)
