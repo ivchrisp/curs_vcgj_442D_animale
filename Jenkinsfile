@@ -14,13 +14,12 @@ pipeline {
                     '''
             }
         }
-
- /*stage('Testare') {
+        
+        /*stage('Testare') {
             problema rulare in paralel, al doilea stage nu mai poate porni venv-ul
             parallel {
          */
-
-  stage('pylint - calitate cod') {
+        stage('pylint - calitate cod') {
             agent any
             steps {
                 sh '''
@@ -36,7 +35,9 @@ pipeline {
                     pylint --exit-zero sysinfo.py;
                 '''
             }
-        } stage('Unit Testing cu pytest') {
+        }
+
+        stage('Unit Testing cu pytest') {
             agent any
             steps {
                 echo 'Unit testing with Pytest...'
@@ -46,7 +47,8 @@ pipeline {
                     python3 -m pytest -v;
                 '''
             }
-        } /*    }
+        }
+        /*    }
         }*/
         stage('Deploy') {
             agent any
@@ -56,7 +58,3 @@ pipeline {
         }
     }
 }
-
-
-
-
