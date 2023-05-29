@@ -15,7 +15,14 @@ Structura fisierelor:
 
 2. Git
 
+Am configurat git:
 
+git config --global user.email "alexandru.ion00@stud.etti.upb.ro"
+git config credential.helper store
+git status
+git add *
+git commit -m "Modificare coduri ION I. Alexandru"
+git push --set-upstream origin devel/alexandruion1_ornitorinc
 
 3. Jenkins
 
