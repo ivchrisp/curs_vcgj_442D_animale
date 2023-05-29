@@ -20,3 +20,6 @@ A functionat localhost-ul adaugat in 442D_animale.py (host = "127.0.0.1", port =
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277716/36e7beda-3fc4-407b-a8ea-90714e72b671)
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277716/b5554671-0d0f-4b28-8fab-5ca3be9b4dea)
 ![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277716/b8f0e0bb-035c-40ba-be90-9b4764d1c67c)
+
+
+![image](https://github.com/ivchrisp/curs_vcgj_442D_animale/assets/134277716/2a1e85c8-4d55-4c4e-a70f-5241e57be41d)
